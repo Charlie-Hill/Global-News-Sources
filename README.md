@@ -25,3 +25,8 @@
 - Daily Record
     - https://dailyrecord.co.uk
     - Tabloid newspaper of record for Scotland
+ 
+## Iran
+-  Ettela'at
+    - https://ettelaat.com/
+    - Persian newspaper of record for Iran
